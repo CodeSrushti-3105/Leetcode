@@ -1,0 +1,28 @@
+//2419. Longest Subarray With Maximum Bitwise AND
+class Solution {
+public:
+    int longestSubarray(vector<int>& nums) {
+        int maxValue = 0;
+
+        for(int i = 0;i < nums.size();i++){
+            if(nums[i] > maxValue){
+                maxValue = nums[i];
+            }
+        }
+
+        int longest = 0, current = 0;
+        for(int i = 0;i < nums.size();i++){
+            if(nums[i] == maxValue){
+                current++;
+                if(current > longest){
+                    longest = current;
+                }
+            }else{
+                    current = 0;
+                }
+
+
+        }
+        return longest;
+    }
+};
