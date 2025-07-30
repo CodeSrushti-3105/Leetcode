@@ -1,0 +1,32 @@
+//128. Longest Consecutive Sequence
+
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        int n = nums.size();
+        if (n == 0) return 0;
+
+        // Sort the array
+        sort(nums.begin(), nums.end());
+        int lastSmaller = INT_MIN;
+        int cnt = 0;
+        int longest = 1;
+
+        // Traverse the array to find the longest consecutive sequence
+        for (int i = 0; i < n; i++) {
+            if (nums[i] - 1 == lastSmaller) {
+                // Current element continues the sequence
+                cnt += 1;
+                lastSmaller = nums[i];
+            }
+            else if (nums[i] != lastSmaller) {
+                // Start a new sequence
+                cnt = 1;
+                lastSmaller = nums[i];
+            }
+            // Update the longest sequence found so far
+            longest = max(longest, cnt);
+        }
+        return longest;
+    }
+};
