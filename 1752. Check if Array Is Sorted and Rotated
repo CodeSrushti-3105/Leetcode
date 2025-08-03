@@ -1,0 +1,30 @@
+class Solution {
+public:
+    bool check(vector<int>& nums)
+     {
+        int n=nums.size();
+        if(n==1) // Single element is always valid
+        return true;
+
+        int pos=1;
+        while(pos<n && nums[pos]>=nums[pos-1])
+        pos++;
+
+        if(pos==n) // Fully sorted, no rotation
+        return true;
+
+        if(nums[pos]>nums[0]) // Invalid rotation
+        return false;
+
+        if(pos==n-1) // Only last element is out of order
+        return true;
+        pos+=1;
+
+        // Check if rest is sorted and wraps correctly
+
+        while(pos<n && nums[pos]<=nums[0] && nums[pos]>=nums[pos-1] ) 
+        pos++;
+        return pos==n; // Valid if end is reached
+        
+    }
+};
