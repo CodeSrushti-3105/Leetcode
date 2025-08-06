@@ -1,0 +1,22 @@
+//80. Remove Duplicates from Sorted Array II
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int n = nums.size();
+        if (n <= 2) return n;  // Already valid
+
+        int i = 2;  // Start from index 2 (first two elements are always allowed)
+
+        for (int j = 2; j < n; j++) {
+            // If current element is not equal to the element at i - 2,
+            // it means we can keep it (at most 2 duplicates allowed)
+            if (nums[j] != nums[i - 2]) {
+                nums[i] = nums[j];
+                i++;
+            }
+        }
+
+        return i;  // New length of the array
+    }
+};
