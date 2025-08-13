@@ -16,4 +16,12 @@ Just for Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
