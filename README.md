@@ -24,4 +24,20 @@ Just for Practice
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
