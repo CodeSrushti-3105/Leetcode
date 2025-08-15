@@ -21,10 +21,12 @@ Just for Practice
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Just for Practice
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
