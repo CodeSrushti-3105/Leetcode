@@ -23,6 +23,7 @@ Just for Practice
 | ------- |
 | [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -34,6 +35,7 @@ Just for Practice
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+| [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Just for Practice
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
