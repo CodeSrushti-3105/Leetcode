@@ -37,6 +37,7 @@ Just for Practice
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -46,6 +47,7 @@ Just for Practice
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -74,10 +76,12 @@ Just for Practice
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
