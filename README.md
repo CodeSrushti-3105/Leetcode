@@ -29,6 +29,7 @@ Just for Practice
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Just for Practice
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@ Just for Practice
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
 | ------- |
@@ -99,4 +102,12 @@ Just for Practice
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
