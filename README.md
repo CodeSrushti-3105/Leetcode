@@ -14,6 +14,7 @@ Just for Practice
 | [0006-zigzag-conversion](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0006-zigzag-conversion) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Just for Practice
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -118,4 +120,12 @@ Just for Practice
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
