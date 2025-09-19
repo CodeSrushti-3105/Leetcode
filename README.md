@@ -7,6 +7,7 @@ Just for Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Just for Practice
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
@@ -71,6 +73,7 @@ Just for Practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
