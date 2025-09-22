@@ -158,4 +158,8 @@ Just for Practice
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3678-design-task-manager) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
