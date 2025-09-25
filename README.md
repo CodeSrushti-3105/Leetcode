@@ -25,6 +25,7 @@ Just for Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -51,6 +52,7 @@ Just for Practice
 | ------- |
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
+| [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
