@@ -38,6 +38,7 @@ Just for Practice
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -60,6 +61,7 @@ Just for Practice
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -86,6 +88,7 @@ Just for Practice
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -102,6 +105,7 @@ Just for Practice
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Sliding Window
