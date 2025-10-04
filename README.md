@@ -7,6 +7,7 @@ Just for Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -57,6 +58,7 @@ Just for Practice
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
@@ -111,6 +113,7 @@ Just for Practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
