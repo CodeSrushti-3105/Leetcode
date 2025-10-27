@@ -20,6 +20,7 @@ Just for Practice
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -46,6 +47,7 @@ Just for Practice
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1642-water-bottles) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -82,6 +84,7 @@ Just for Practice
 | [1612-avoid-flood-in-the-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -164,6 +167,7 @@ Just for Practice
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3797-design-spreadsheet](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Stack
