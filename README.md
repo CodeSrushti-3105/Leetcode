@@ -108,6 +108,7 @@ Just for Practice
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Just for Practice
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Just for Practice
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Just for Practice
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Database
 |  |
 | ------- |
@@ -265,15 +269,18 @@ Just for Practice
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,4 +295,8 @@ Just for Practice
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
