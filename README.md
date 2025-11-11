@@ -18,6 +18,7 @@ Just for Practice
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -32,6 +33,7 @@ Just for Practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -75,6 +77,7 @@ Just for Practice
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
