@@ -21,6 +21,7 @@ Just for Practice
 | [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -50,6 +51,7 @@ Just for Practice
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
