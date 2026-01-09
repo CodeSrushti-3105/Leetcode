@@ -203,6 +203,7 @@ Just for Practice
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -287,6 +288,7 @@ Just for Practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -318,4 +320,12 @@ Just for Practice
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
