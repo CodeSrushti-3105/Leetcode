@@ -36,6 +36,7 @@ Just for Practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
@@ -80,6 +81,7 @@ Just for Practice
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
@@ -195,6 +197,7 @@ Just for Practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -206,6 +209,7 @@ Just for Practice
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -213,6 +217,7 @@ Just for Practice
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
