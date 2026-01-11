@@ -12,6 +12,7 @@ Just for Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
@@ -85,6 +86,7 @@ Just for Practice
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
