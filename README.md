@@ -56,6 +56,7 @@ Just for Practice
 | [0830-largest-triangle-area](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1642-water-bottles) |
@@ -98,6 +99,7 @@ Just for Practice
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -237,6 +239,7 @@ Just for Practice
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
