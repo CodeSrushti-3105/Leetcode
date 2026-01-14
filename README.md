@@ -119,6 +119,7 @@ Just for Practice
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -282,6 +283,7 @@ Just for Practice
 | [1612-avoid-flood-in-the-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Simulation
 |  |
@@ -414,4 +416,12 @@ Just for Practice
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
