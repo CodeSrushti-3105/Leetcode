@@ -304,6 +304,7 @@ Just for Practice
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -320,6 +321,7 @@ Just for Practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -365,6 +367,7 @@ Just for Practice
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,4 +383,5 @@ Just for Practice
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
