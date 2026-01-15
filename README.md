@@ -115,6 +115,7 @@ Just for Practice
 | [2432-number-of-zero-filled-subarrays](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -158,6 +159,7 @@ Just for Practice
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
