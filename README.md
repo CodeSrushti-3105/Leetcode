@@ -14,6 +14,7 @@ Just for Practice
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -137,6 +138,7 @@ Just for Practice
 | ------- |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -311,6 +313,7 @@ Just for Practice
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -331,6 +334,7 @@ Just for Practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -381,6 +385,7 @@ Just for Practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -404,6 +409,7 @@ Just for Practice
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -415,6 +421,7 @@ Just for Practice
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
