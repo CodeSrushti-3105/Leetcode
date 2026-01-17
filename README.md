@@ -87,6 +87,7 @@ Just for Practice
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
@@ -141,6 +142,7 @@ Just for Practice
 | ------- |
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -386,6 +388,7 @@ Just for Practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -413,6 +416,7 @@ Just for Practice
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -452,4 +456,5 @@ Just for Practice
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
