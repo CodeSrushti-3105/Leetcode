@@ -231,6 +231,7 @@ Just for Practice
 | ------- |
 | [0085-maximal-rectangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -341,6 +342,7 @@ Just for Practice
 | [0101-symmetric-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -374,6 +376,7 @@ Just for Practice
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -397,6 +400,7 @@ Just for Practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -426,6 +430,7 @@ Just for Practice
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0199-binary-tree-right-side-view) |
