@@ -377,6 +377,7 @@ Just for Practice
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
