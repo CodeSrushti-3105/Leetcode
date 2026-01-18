@@ -111,6 +111,7 @@ Just for Practice
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -220,6 +221,7 @@ Just for Practice
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3797-design-spreadsheet](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -356,6 +358,7 @@ Just for Practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1895-largest-magic-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
