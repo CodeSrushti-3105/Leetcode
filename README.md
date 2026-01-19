@@ -10,6 +10,7 @@ Just for Practice
 | [0011-container-with-most-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0283-move-zeroes) |
@@ -147,6 +148,7 @@ Just for Practice
 | [0037-sudoku-solver](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -379,6 +381,7 @@ Just for Practice
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0876-middle-of-the-linked-list) |
