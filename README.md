@@ -78,6 +78,7 @@ Just for Practice
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
 ## Array
@@ -378,6 +379,7 @@ Just for Practice
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
