@@ -130,6 +130,7 @@ Just for Practice
 | [3242-count-elements-with-maximum-frequency](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -188,6 +189,7 @@ Just for Practice
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
