@@ -142,6 +142,7 @@ Just for Practice
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3637-trionic-array-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3637-trionic-array-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
