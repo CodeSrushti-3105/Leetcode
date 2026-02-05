@@ -133,6 +133,7 @@ Just for Practice
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3454-separate-squares-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -328,6 +329,7 @@ Just for Practice
 | [1642-water-bottles](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
