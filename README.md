@@ -144,6 +144,7 @@ Just for Practice
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -187,6 +188,7 @@ Just for Practice
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Just for Practice
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Probability and Statistics
 |  |
 | ------- |
