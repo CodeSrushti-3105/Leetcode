@@ -210,6 +210,7 @@ Just for Practice
 | [0011-container-with-most-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -383,6 +384,7 @@ Just for Practice
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3863-power-grid-maintenance](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -450,6 +452,7 @@ Just for Practice
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,6 +483,7 @@ Just for Practice
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -492,6 +496,7 @@ Just for Practice
 | [0700-search-in-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -505,6 +510,7 @@ Just for Practice
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
