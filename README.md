@@ -201,6 +201,7 @@ Just for Practice
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/CodeSrushti-3105/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
