@@ -27,6 +27,7 @@ Just for Practice
 | [0165-compare-version-numbers](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0761-special-binary-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -183,6 +184,7 @@ Just for Practice
 | [0015-3sum](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeSrushti-3105/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -511,6 +513,7 @@ Just for Practice
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0761-special-binary-string](https://github.com/CodeSrushti-3105/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/CodeSrushti-3105/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
